@@ -1,2 +1,2 @@
 # Insurance-Data-Analysis-Using-Pandas
-This project demonstrates data cleaning, preprocessing, and analysis using Python and the Pandas library. The dataset is analyzed to extract meaningful insights through filtering, grouping, aggregation, and transformation techniques commonly used in real-world data analytics projects.
+This project demonstrates data analysis techniques using the Insurance Dataset. Using Pandas, NumPy, Matplotlib, and Seaborn, the dataset is cleaned, processed, and analyzed to uncover trends and relationships between customer characteristics and insurance charges. The project includes exploratory data analysis (EDA), statistical summaries, and visualizations to provide meaningful business insights.
